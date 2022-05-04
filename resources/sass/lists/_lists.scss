@@ -1,0 +1,21 @@
+.data-list {
+    & .data-element {
+        margin-bottom: 10px;
+
+        @extend %listCrud;
+    }
+
+    margin-bottom: 20px;
+}
+
+.data-element--left {
+    & > .data-element-form {
+        display: inline;
+    }
+}
+
+.data-list {
+    & .list-group-item {
+       @extend %listCrud;
+    }
+}

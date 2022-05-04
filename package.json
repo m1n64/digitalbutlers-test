@@ -24,6 +24,8 @@
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
-        "bulma": "^0.9.3"
+        "bulma": "^0.9.3",
+        "detect-autofill": "^1.1.4",
+        "mdb-ui-kit": "^4.0.0"
     }
 }

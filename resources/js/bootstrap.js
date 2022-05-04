@@ -1,7 +1,8 @@
 window._ = require('lodash');
 
 try {
-    require('bootstrap');
+    /*require('bootstrap');*/
+    require("mdb-ui-kit/src/js/mdb.free")
 } catch (e) {}
 
 /**
