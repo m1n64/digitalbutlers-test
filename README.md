@@ -1,4 +1,4 @@
-Test project for [DigitalButlers](https://digitalbutlers.me) (Laravel)
+Test project (Laravel)
 
 ### How to start:
 1. git clone https://github.com/m1n64/digitalbutlers-test
